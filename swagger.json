@@ -5,7 +5,7 @@
     "description": "Contact Api",
     "version": "1.0.0"
   },
-  "host": "https://project1-iu9o.onrender.com",
+  "host": "project1-iu9o.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
